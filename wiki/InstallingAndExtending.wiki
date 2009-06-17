@@ -1,4 +1,8 @@
 #labels Featured
+= Dependencies =
+ * [http://code.google.com/p/django-timezones/ django-timezones]
+ * [http://pypi.python.org/pypi/pytz/ pytz] (used by django-timezones).
+
 = Installation =
 I will assume that you already have a Django project setup with jQuery. If not,
 do it now!
