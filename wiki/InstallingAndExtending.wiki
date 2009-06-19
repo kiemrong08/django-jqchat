@@ -4,6 +4,9 @@
  * [http://pypi.python.org/pypi/pytz/ pytz] (used by django-timezones).
 
 = Installation =
+
+For now these instructions are very basic - please do not hesitate to point out errors, omissions, black holes, etc... and I will add your corrections.
+
 I will assume that you already have a Django project setup with jQuery. If not,
 do it now!
 After that, installation is fairy standard:
