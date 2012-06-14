@@ -14,7 +14,6 @@ After that, installation is fairy standard:
  * add jqchat to the project's list of applications.
  * add jqchat's urls.py to your main urls.py file.
  * run a syncdb to add new tables.
- * in your static media folder, create a link to the supplied javascript file e.g. {{{ln -s $PROJECT_FOLDER/jqchat/static jqchat}}}
  * test it. By default the urls.py file supplied adds 2 types of chat test rooms, you will have to manually create one in the admin before you can test it.
 
 = Design philosophy =
